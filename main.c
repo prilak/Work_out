@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-
+//note
 int arms = 0;
 int legs = 1;
 
